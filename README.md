@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋 soy Emily Guerrero</h1>
-<h3 align="center">¡Hola! Soy una profesional graduada en Contabilidad que ha estado explorando el mundo de la tecnología y expandiendo mis habilidades en el campo de TI.. A continuación, te cuento un poco más sobre mí:</h3> - 🌱
+<h1 align="center">¡Hola!👋 soy Emily Guerrero</h1>
+<h3 align="center"> Soy una profesional graduada en Contabilidad que ha estado explorando el mundo de la tecnología y expandiendo mis habilidades en el campo de TI.. A continuación, te cuento un poco más sobre mí:</h3> - 🌱
 
 Actualmente estoy aprendiendo ** Ruby on Rails**
 
